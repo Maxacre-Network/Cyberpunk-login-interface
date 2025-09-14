@@ -8,8 +8,7 @@
 
 ## 🖥️ Preview
 
-![Interface preview](https://cdn.discordapp.com/attachments/1415423425542885536/1416817277394882782/Screen_Recording_20250914_180507_Brave.mp4?ex=68c8396a&is=68c6e7ea&hm=6c476bb81a70c41b70f9b8022a24ce1ca5f2bba9b7fd47d92c2a72d6d5462c48&)  
-
+![Interface preview](https://s184.convertio.me/p/Zk72_nTgBknE-5KZnDE2Pw/73ecbba4403f21c82cdb9c67a6bb07ad/Screen_Recording_20250914_180507_Brave.gif)  
 ---
 
 ## 📦 Installation
