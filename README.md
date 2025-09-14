@@ -8,7 +8,7 @@
 
 ## 🖥️ Preview
 
-![Interface preview](path-to-your-image.png)  
+![Interface preview](https://cdn.discordapp.com/attachments/968901885882929212/1416799298317979809/Screenshot_20250914_165359_Brave.png?ex=68c828ab&is=68c6d72b&hm=31798d21d1c32337940740c67c48c430f80ad256da4a9c7c48801815d2c30f25&)  
 *(Optional: Add a GIF or screenshot of the interface)*
 
 ---
