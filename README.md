@@ -8,7 +8,7 @@
 
 ## 🖥️ Preview
 
-![Interface preview](https://imgur.com/a/Zn4Oajs)  
+(https://imgur.com/a/Zn4Oajs#wOa4BJt)  
 ---
 
 ## 📦 Installation
