@@ -8,8 +8,7 @@
 
 ## 🖥️ Preview
 
-![Interface preview](https://cdn.discordapp.com/attachments/968901885882929212/1416799298317979809/Screenshot_20250914_165359_Brave.png?ex=68c828ab&is=68c6d72b&hm=31798d21d1c32337940740c67c48c430f80ad256da4a9c7c48801815d2c30f25&)  
-*(Optional: Add a GIF or screenshot of the interface)*
+![Interface preview](https://cdn.discordapp.com/attachments/1415423425542885536/1416817277394882782/Screen_Recording_20250914_180507_Brave.mp4?ex=68c8396a&is=68c6e7ea&hm=6c476bb81a70c41b70f9b8022a24ce1ca5f2bba9b7fd47d92c2a72d6d5462c48&)  
 
 ---
 
