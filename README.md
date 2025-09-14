@@ -8,7 +8,7 @@
 
 ## 🖥️ Preview
 
-![Interface preview](https://s184.convertio.me/p/Zk72_nTgBknE-5KZnDE2Pw/73ecbba4403f21c82cdb9c67a6bb07ad/Screen_Recording_20250914_180507_Brave.gif)  
+![Interface preview](https://imgur.com/a/Zn4Oajs)  
 ---
 
 ## 📦 Installation
