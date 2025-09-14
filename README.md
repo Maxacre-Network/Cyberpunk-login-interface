@@ -8,7 +8,8 @@
 
 ## 🖥️ Preview
 
-(https://imgur.com/a/Zn4Oajs#wOa4BJt)  
+[Click here to view the preview](https://imgur.com/a/Zn4Oajs#wOa4BJt)
+
 ---
 
 ## 📦 Installation
